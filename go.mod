@@ -70,6 +70,7 @@ require (
 
 replace (
 	github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
+	github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.3.0 => github.com/ykulazhenkov/network-attachment-definition-client v1.3.1-0.20221017130552-86fdd7c7d49f
 	k8s.io/api => k8s.io/api v0.22.8
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.22.8
 	k8s.io/apimachinery => k8s.io/apimachinery v0.22.8
